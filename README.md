@@ -1,0 +1,2 @@
+# IIIT-B-AI-ML
+IIIT-B PG DIPLOMA in AI ML March 2024 Batch
